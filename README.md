@@ -1,5 +1,5 @@
 # Welcome to Open Source Maintainers on GitHub!
-The GitHub maintainer community is a place for open source maintainers on GitHub to collaborate with each other, and with GitHubbers. To create a safe space for free exchange of ideas, we’ve made this community private.
+The GitHub maintainer community is a place for open source maintainers on GitHub to collaborate with each other, and with people who work at GitHub. To create a safe space for free exchange of ideas, we’ve made this community private.
 
 # How do I join?
 The community is open to active open source maintainers on GitHub with a demonstrated interest in collaborating on best practices.
