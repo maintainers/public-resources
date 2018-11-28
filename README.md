@@ -10,4 +10,4 @@ If you’d like:
 - a framework for regular open source contribution, along with resources to help you convince your employers to join in, check out [Open Source Friday](https://opensourcefriday.com/)
 
 # How do I join?
-We’ve starting with a small group of maintainers to ensure a good experience. We're not taking new applications at this time but will reconsider this in future.
+We’re starting with a small group of maintainers to ensure a good experience. We're not taking new applications at this time but will reconsider this in future.
