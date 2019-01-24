@@ -1,4 +1,4 @@
-# Welcome to Open Source Maintainers at GitHub!
+# Welcome to the Open Source Maintainers organization
 This is a space for maintainers to discuss experiences, challenges, and best practices in maintaining popular open source software (OSS) projects.
 
 ## How do I join?
