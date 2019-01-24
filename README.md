@@ -1,13 +1,14 @@
-# Welcome to Open Source Maintainers on GitHub!
-The GitHub maintainer community is a place for some open source maintainers on GitHub to collaborate with each other, and with GitHub.
+# Welcome to Open Source Maintainers at GitHub!
+This is a space for maintainers to discuss experiences, challenges, and best practices in maintaining popular open source software (OSS) projects.
 
-To create a safe space for free exchange of ideas, we’ve made this community private.
+## How do I join?
+This page is the public README for a private maintainers community. We’ve made it private to enable a free exchange of ideas, and we’re starting with a small group to ensure a good experience. 
 
-If you’d like:
+We are not currently accepting applications, but we may do so in the future.
 
-- to learn open source best practices, check out the [Open Source Guides](https://opensource.guide)
-- find open source data for research, check out the [Open Source Survey](http://opensourcesurvey.org/2017/)
-- a framework for regular open source contribution, along with resources to help you convince your employers to join in, check out [Open Source Friday](https://opensourcefriday.com/)
+## Public resources
 
-# How do I join?
-We’re starting with a small group of maintainers to ensure a good experience. We're not taking new applications at this time but will reconsider this in future.
+- Best practices: [Open Source Guides](https://opensource.guide)
+- OSS data for research: [Open Source Survey](http://opensourcesurvey.org/2017/)
+- To help you get started as a contributor and convince your employers to join: [Open Source Friday](https://opensourcefriday.com/)
+
