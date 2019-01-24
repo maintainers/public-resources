@@ -10,5 +10,5 @@ We are not currently accepting applications, but we may do so in the future.
 
 - Best practices: [Open Source Guides](https://opensource.guide)
 - OSS data for research: [Open Source Survey](http://opensourcesurvey.org/2017/)
-- To help you get started as a contributor and convince your employers to join: [Open Source Friday](https://opensourcefriday.com/)
+- To help you get started as a contributor and convince your employers to participate in OSS: [Open Source Friday](https://opensourcefriday.com/)
 
