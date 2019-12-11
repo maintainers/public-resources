@@ -12,3 +12,4 @@ We are not currently accepting applications, but we may do so in the future.
 - OSS data for research: [Open Source Survey](http://opensourcesurvey.org/2017/)
 - To help you get started as a contributor and convince your employers to participate in OSS: [Open Source Friday](https://opensourcefriday.com/)
 
+GPG key ID: 4AEE18F83AFDEB23
