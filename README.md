@@ -14,6 +14,6 @@ This page is the public README for a private maintainers community. We’ve made
 ## Public resources
 
 - Best practices: [Open Source Guides](https://opensource.guide)
-- OSS data for research: [Open Source Survey](http://opensourcesurvey.org/2017/)
+- OSS data for research: [Open Source Survey](https://opensourcesurvey.org/2017/)
 - To help you get started as a contributor and convince your employers to participate in OSS: [Open Source Friday](https://opensourcefriday.com/)
 
